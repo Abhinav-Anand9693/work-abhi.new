@@ -1,0 +1,8 @@
+# WorkAbhi Robots Configuration
+# https://workabhi.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://workabhi.com/sitemap.xml

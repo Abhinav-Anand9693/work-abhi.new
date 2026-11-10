@@ -1,0 +1,6 @@
+{
+  "name": "WorkAbhi - Free Everyday Web Tools",
+  "description": "High-performance client-side suite for video, audio, image editing, PDF tools, QR codes, developer converters, and financial calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
